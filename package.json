@@ -6,7 +6,7 @@
   "homepage": "https://dykyys.github.io/parcel-test",
   "scripts": {
     "start": "parcel -p 7777",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html --public-url /parcel-test/"
   },
   "repository": {
     "type": "git",
