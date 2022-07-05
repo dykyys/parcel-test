@@ -4,7 +4,7 @@
 61D:\code\GoIT\js\parcel-test\node_modules\p-limit\package.json133015253385151028 0
 38D:\code\GoIT\js\parcel-test\.gitignore132799669488254285 0
 73D:\code\GoIT\js\parcel-test\node_modules\cosmiconfig\dist\readFile.js.map121436361000000000 0
-40D:\code\GoIT\js\parcel-test\package.json133015257608408623 0
+40D:\code\GoIT\js\parcel-test\package.json133015278636559393 0
 61D:\code\GoIT\js\parcel-test\node_modules\json5\lib\unicode.js121436361000000000 0
 81D:\code\GoIT\js\parcel-test\node_modules\@parcel\runtime-browser-hmr\package.json133015244032092081 0
 69D:\code\GoIT\js\parcel-test\node_modules\source-map\lib\quick-sort.js131369414910000000 0
@@ -28,7 +28,7 @@
 72D:\code\GoIT\js\parcel-test\node_modules\caniuse-lite\data\regions\DO.js121436361000000000 0
 65D:\code\GoIT\js\parcel-test\node_modules\abortcontroller-polyfill133015244031344745 1
 60D:\code\GoIT\js\parcel-test\node_modules\lodash\fp\padEnd.js121436361000000000 0
-32D:\code\GoIT\js\parcel-test\dist133015260479810035 1
+32D:\code\GoIT\js\parcel-test\dist133015278684564573 1
 76D:\code\GoIT\js\parcel-test\node_modules\@parcel\core\test\fixtures\main-mjs133015244012224255 1
 56D:\code\GoIT\js\parcel-test\node_modules\lodash\round.js121436361000000000 0
 40D:\code\GoIT\js\parcel-test\node_modules133015253385666145 1
@@ -1117,7 +1117,7 @@
 88D:\code\GoIT\js\parcel-test\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h121436361000000000 0
 64D:\code\GoIT\js\parcel-test\node_modules\import-fresh\index.d.ts121436361000000000 0
 60D:\code\GoIT\js\parcel-test\node_modules\make-dir\index.d.ts121436361000000000 0
-50D:\code\GoIT\js\parcel-test\dist\index.0641b553.js133015257614530965 0
+50D:\code\GoIT\js\parcel-test\dist\index.0641b553.js133015261804379526 0
 93D:\code\GoIT\js\parcel-test\node_modules\react-refresh\cjs\react-refresh-babel.development.js121436361000000000 0
 73D:\code\GoIT\js\parcel-test\node_modules\type-fest\source\promisable.d.ts121436361000000000 0
 64D:\code\GoIT\js\parcel-test\node_modules\node-gyp-build\index.js121436361000000000 0
@@ -4562,7 +4562,7 @@
 88D:\code\GoIT\js\parcel-test\node_modules\caniuse-lite\data\features\template-literals.js121436361000000000 0
 89D:\code\GoIT\js\parcel-test\node_modules\@babel\highlight\node_modules\chalk\package.json133015244031335071 0
 79D:\code\GoIT\js\parcel-test\node_modules\caniuse-lite\data\features\template.js121436361000000000 0
-54D:\code\GoIT\js\parcel-test\dist\index.0641b553.js.map133015257614557226 0
+54D:\code\GoIT\js\parcel-test\dist\index.0641b553.js.map133015261804379526 0
 79D:\code\GoIT\js\parcel-test\node_modules\caniuse-lite\data\features\testfeat.js121436361000000000 0
 84D:\code\GoIT\js\parcel-test\node_modules\caniuse-lite\data\features\text-emphasis.js121436361000000000 0
 84D:\code\GoIT\js\parcel-test\node_modules\caniuse-lite\data\features\text-overflow.js121436361000000000 0
@@ -5685,8 +5685,8 @@
 56D:\code\GoIT\js\parcel-test\node_modules\.bin\semver.ps1133015244034287063 0
 54D:\code\GoIT\js\parcel-test\node_modules\.bin\svgo.ps1133015244034410790 0
 56D:\code\GoIT\js\parcel-test\node_modules\.bin\terser.cmd133015244034412095 0
-51D:\code\GoIT\js\parcel-test\dist\index.4d663569.css133015257614144893 0
-55D:\code\GoIT\js\parcel-test\dist\index.4d663569.css.map133015257614196605 0
+51D:\code\GoIT\js\parcel-test\dist\index.4d663569.css133015261804126780 0
+55D:\code\GoIT\js\parcel-test\dist\index.4d663569.css.map133015261804169394 0
 51D:\code\GoIT\js\parcel-test\dist\index.7269d2f3.css133015260479702199 0
 55D:\code\GoIT\js\parcel-test\dist\index.7269d2f3.css.map133015260479810035 0
-43D:\code\GoIT\js\parcel-test\dist\index.html133015260479702199 0
+43D:\code\GoIT\js\parcel-test\dist\index.html133015278684554590 0

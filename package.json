@@ -6,9 +6,9 @@
   "homepage": "https://dykyys.github.io/parcel-test",
   "scripts": {
     "start": "parcel -p 7777",
-    "build": "parcel src/index.html --public-url /parcel-test/",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "parcel build src/index.html --public-url /parcel-test/",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
