@@ -533,6 +533,7 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"bNKaB":[function(require,module,exports) {
 console.log("Hello world!");
+console.log("Hello world!");
 
 },{}]},["7Aums","bNKaB"], "bNKaB", "parcelRequire5c22")
 

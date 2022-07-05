@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI,gBACZD,QAAQC,IAAI","sources":["src/app.js"],"sourcesContent":["console.log('Hello world!');\r\nconsole.log('Hello world!');\r\n"],"names":["console","log"],"version":3,"file":"index.e4b6d009.js.map"}
